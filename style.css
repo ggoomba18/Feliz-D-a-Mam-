@@ -1,0 +1,12 @@
+body{
+    background-image: url(img/bc.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img{
+    height: 300px;
+    width: 350px;
+}
+.dr{
+    padding-left: 47%;
+}
